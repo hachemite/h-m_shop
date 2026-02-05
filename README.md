@@ -8,12 +8,12 @@ Welcome to the **Shop♡Ease** master repository. This project is a full-stack e
 
 We are a team of Engineering Students from the **National School of Applied Sciences (ENSA), Fès**, specializing in Software Engineering and Artificial Intelligence. This project is the culmination of our collaborative efforts to bridge the gap between modern E-commerce and Machine Learning.
 
-| Name | Role | Focus Area |
-| --- | --- | --- |
-| **Malak Bensaid** | Software Engineer | Frontend Architecture & UI Design |
-| **Hajar Slimani** | Software Engineer | Component Logic & State Management |
-| **Douaa Berrahmo** | AI & Data Scientist | ML Model Optimization & Data Analysis |
-| **Hachem Squalli ElHoussaini** | Full-Stack Developer | API Development & System Integration |
+| Name |
+| --- | 
+| **Malak Bensaid** | 
+| **Hajar Slimani** | 
+| **Douaa Berrahmo** |
+| **Hachem Squalli ElHoussaini** |
 
 ### 🎓 Academic Context
 
