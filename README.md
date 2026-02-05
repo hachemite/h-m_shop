@@ -74,15 +74,6 @@ ng serve
 
 ---
 
-## 👥 The ENSA Fès Engineering Team
-
-* **Malak Bensaid**
-* **Hajar Slimani**
-* **Douaa Berrahmo**
-* **Hachem Squalli ElHoussaini**
-
----
-
 ### 🛠 Maintenance Commands
 
 * **To pull latest changes for all parts:**
