@@ -1,0 +1,6 @@
+[submodule "H-M-Backend-Recommendation-System-Model"]
+	path = H-M-Backend-Recommendation-System-Model
+	url = https://github.com/hachemite/H-M-Backend-Recommendation-System-Model.git
+[submodule "Front-End-ML-e-commerce"]
+	path = Front-End-ML-e-commerce
+	url = https://github.com/hachemite/Front-End-ML-e-commerce.git
