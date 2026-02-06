@@ -3,6 +3,7 @@
 Welcome to the **Shop♡Ease** master repository. This project is a full-stack e-commerce solution that leverages Machine Learning to provide intelligent fashion recommendations based on H&M dataset insights.
 
 ---
+website: https://hm-shop-hh7w.onrender.com/  ; open until : 28/2/2026
 
 ## 👥 About the Authors
 
