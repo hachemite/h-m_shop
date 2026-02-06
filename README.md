@@ -20,7 +20,11 @@ We are a team of Engineering Students from the **National School of Applied Scie
 * **Institution:** ENSA Fès (École Nationale des Sciences Appliquées)
 * **Year:** 2026
 * **Project:** ShopEase Intelligent E-commerce Solution
+---
 
+https://github.com/user-attachments/assets/6f0b8d24-96aa-498d-90a1-ae217700d6d6
+
+---
 
 ## 🏗️ Project Structure
 
